@@ -1,6 +1,7 @@
 ---
 title: Erfolgreich im Netz
 description: Professionelle Websites für kleine und mittelständische Unternehmen – einfach und zuverlässig.
+layout: home
 ---
 
 # Erfolgreich im Netz
